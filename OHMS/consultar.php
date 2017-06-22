@@ -44,6 +44,6 @@ echo "</table>";
 mysqli_close($link);
 ?>
 <p><p><hr>
-<center><h3><a href="consultar.php"> Voltar </a><h3></center>
+<center><h3><a href="home.htm"> Voltar </a><h3></center>
 </BODY>
 </HTML>
